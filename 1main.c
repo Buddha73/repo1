@@ -16,5 +16,6 @@ printf("%d\n",*(name+i));
 free (name);
 //int*data =(int *)malloc(no*sizeof(int));
 //free(data);
+// trail 1.0.0
     return 0;
 }
